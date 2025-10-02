@@ -1,4 +1,6 @@
-## Hi there i'm bernad👋
+## Hi there i'm Bernad👋
+
+![Bernadus Wisnu](img/header-banner.png)
 
 <!--
 **BernadusWisnu/BernadusWisnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-🔭 I’m currently working on @Revalina Masker
